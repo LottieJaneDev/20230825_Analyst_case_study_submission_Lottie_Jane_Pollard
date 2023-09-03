@@ -10,14 +10,8 @@ DROP TABLE IF EXISTS Items;
 DROP TABLE IF EXISTS Regions;
 DROP TABLE IF EXISTS Orders;
 
-
--- Create Mr Haulage Database
-CREATE DATABASE mr_haulage_order_details;
-
 -- Use Database
 USE mr_haulage_order_details;
-
-
 
 -- Create the initial table to load dataset from the cleansed CSV file
 CREATE TABLE temporary_table (
@@ -33,14 +27,15 @@ CREATE TABLE temporary_table (
     financial_quarter VARCHAR(5)
 );
 
+SET GLOBAL local_infile=1;
 
 -- Load the dataset into the 'temporary_table'
-LOAD DATA INFILE '20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/datasets/cleansed_mr_haulage_order_details.csv'
+LOAD DATA LOCAL INFILE '/Users/lottiejanepollare/Library/Mobile Documents/com~apple~CloudDocs/CV, Profiles, Interviews & Job Applications/applications/techmodal_analyst_data_engineer/20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/datasets/cleansed_mr_haulage_order_details.csv'
 INTO TABLE temporary_table
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
-
+--  Can't find the permission to allow it to load in local infiles
 
 -- Create Customers Table
 CREATE TABLE Customers (
@@ -101,11 +96,6 @@ JOIN Regions ON temporary_table.delivery_region = Regions.delivery_region;
 
 -- Delete initial table
 DROP TABLE temporary_table;
-
-
-
-
-
 
 
 
