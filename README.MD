@@ -118,7 +118,7 @@ The analysis suggests that Option 4 provides the most cost-efficient and scalabl
 - Extend the analysis to include predictive modelling for future years.
 - Complete the sql script & database normalisation to conduct data queries 
 - Finish the client PowerPoint for in person presentation of my findings
-
+_ Remove clutter 'DS_Store' files 
 
 ----------------------------------
 
