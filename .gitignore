@@ -1,0 +1,7 @@
+.idea
+.gitignore
+.venv
+.git
+datasets/normalised_cleansed_mr_haulage_order_details.sql
+.DS_Store
+client_documentation/presentation
