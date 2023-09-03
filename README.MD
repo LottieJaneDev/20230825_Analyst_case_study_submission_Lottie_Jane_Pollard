@@ -6,7 +6,7 @@
 <img src="mr_haulage_logo.png" alt="mr_haulage_logo" width="200"/>
 ----------------------------------
 
-<img src="/Users/lottiejanepollare/Library/Mobile Documents/com~apple~CloudDocs/CV, Profiles, Interviews & Job Applications/applications/techmodal_analyst_data_engineer/20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/images/logos/techmodal/techmodal_opp_found_logo.png" alt="techmodal_logo" width="400"/>
+<img src="20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/images/logos/techmodal/techmodal_opp_found_logo.png" alt="techmodal_logo" width="400"/>
 
 ----------------------------------
 
