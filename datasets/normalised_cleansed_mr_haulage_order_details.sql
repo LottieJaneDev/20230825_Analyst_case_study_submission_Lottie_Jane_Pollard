@@ -27,6 +27,7 @@ CREATE TABLE temporary_table (
     financial_quarter VARCHAR(5)
 );
 
+-- can't get MySQL to read in the file!!!!!!!!
 SET GLOBAL local_infile=1;
 
 -- Load the dataset into the 'temporary_table'

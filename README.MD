@@ -5,9 +5,7 @@
 ----------------------------------
 <img src="/Users/lottiejanepollare/Library/Mobile Documents/com~apple~CloudDocs/CV, Profiles, Interviews & Job Applications/applications/techmodal_analyst_data_engineer/20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/images/logos/client_mr_haulage/mr_haulage_logo.png" alt="mr_haulage_logo" width="200"/>
 ----------------------------------
-
-<img src="/Users/lottiejanepollare/Library/Mobile Documents/com~apple~CloudDocs/CV, Profiles, Interviews & Job Applications/applications/techmodal_analyst_data_engineer/20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/images/logos/client_mr_haulage/techmodal_opp_found_logo.png" alt="techmodal_logo" width="400"/>
-
+<img src="/Users/lottiejanepollare/Library/Mobile Documents/com~apple~CloudDocs/CV, Profiles, Interviews & Job Applications/applications/techmodal_analyst_data_engineer/20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/images/logos/techmodal/techmodal_logo_small_black_on_white.png" alt="techmodal_logo" width="400"/>
 ----------------------------------
 
 ## Table of Contents
