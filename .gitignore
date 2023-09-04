@@ -6,3 +6,12 @@ datasets/normalised_cleansed_mr_haulage_order_details.sql
 client_documentation/presentation/mr_haulage_presentation.pptm
 /Users/lottiejanepollare/Library/Mobile Documents/com~apple~CloudDocs/CV, Profiles, Interviews & Job Applications/applications/techmodal_analyst_data_engineer/20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/client_documentation/presentation/mr_haulage_presentation.pptm
 /Users/lottiejanepollare/Library/Mobile Documents/com~apple~CloudDocs/CV, Profiles, Interviews & Job Applications/applications/techmodal_analyst_data_engineer/20230825_Analyst_case_study_submission_Lottie_Jane_Pollard/datasets/normalised_cleansed_mr_haulage_order_details.sql
+.idea
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
