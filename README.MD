@@ -109,8 +109,6 @@ The analysis suggests that Option 4 provides the most cost-efficient and scalabl
 ## Limitations
 
 - The analysis makes several assumptions, and it is strongly advised to consult with Mr. Haulage and the Fleet Manager for further validation.
-- A MySQL script was in the works, half-processed but has been omitted for now due to time constraints & technical issues
-- A wonderful PowerPoint presentation for Mr. Haulage himself was also planned but again due to time constraints isn't complete for public viewing
 
 
 ----------------------------------
@@ -119,9 +117,8 @@ The analysis suggests that Option 4 provides the most cost-efficient and scalabl
 
 - Incorporate more granular data for better route planning.
 - Extend the analysis to include predictive modelling for future years.
-- Complete the sql script & database normalisation to conduct data queries 
-- Finish the client PowerPoint for in person presentation of my findings
-_ Remove clutter 'DS_Store' files 
+- Complete the sql script & database normalisation to conduct data queries (.gitignore for now)
+- Finish the client PowerPoint for in person presentation of my findings (.gitignore for now)
 
 ----------------------------------
 
