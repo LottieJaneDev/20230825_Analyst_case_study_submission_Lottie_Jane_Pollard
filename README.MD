@@ -3,9 +3,13 @@
 *"Garbage in, Garbage out" - George Fuechsel, IBM*
 
 ----------------------------------
+
 <img src="/images/logos/client_mr_haulage/mr_haulage_logo.png" alt="mr_haulage_logo" width="200"/>
+
 ----------------------------------
+
 <img src="/images/logos/techmodal/techmodal_logo_small_black_on_white.png" alt="mr_haulage_logo" width="200"/>
+
 ----------------------------------
 
 
